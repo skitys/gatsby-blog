@@ -1,13 +1,11 @@
 ---
-title: My Second Post!
-date: "2022-02-28T23:46:37.121Z"
+title: 記事作成のテスト
+date: "2022-02-28"
 ---
 
-Wow! I love blogging so much already.
+記事投稿のテスト.
 
-Did you know that "despite its name, salted duck eggs can also be made from
-chicken eggs, though the taste and texture will be somewhat different, and the
-egg yolk will be less rich."?
-([Wikipedia Link](https://en.wikipedia.org/wiki/Salted_duck_egg))
+マークダウンで記事作成のテスト。
+([リンクはここに書く](https://en.wikipedia.org/wiki/Salted_duck_egg))
 
-Yeah, I didn't either.
+記事テスト。
